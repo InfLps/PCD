@@ -1,0 +1,60 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/background"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:gravity="center_horizontal"
+		android:orientation="vertical">
+		<TextView
+			android:id="@+id/title"
+			android:focusable="false"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingLeft="8dp"
+			android:paddingTop="8dp"
+			android:paddingRight="8dp"
+			android:text="LICENSE"
+			android:textSize="20sp"
+			android:textStyle="bold"
+			android:textColor="#FFFFFF" />
+		<TextView
+			android:id="@+id/subtitle"
+			android:focusable="false"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:paddingLeft="8dp"
+			android:paddingRight="8dp"
+			android:paddingBottom="8dp"
+			android:text="GNU General Public License v3"
+			android:textSize="12sp"
+			android:textColor="#FFFFFF" />
+		<LinearLayout
+			android:id="@+id/LinearLayout1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			android:layout_weight="1">
+			<WebView
+				android:id="@+id/webView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="3dp" />
+		</LinearLayout>
+		<TextView
+			android:id="@+id/dismiss"
+			android:focusable="false"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:text="DISMISS"
+			android:textSize="20sp"
+			android:textColor="#FFFFFF" />
+	</LinearLayout>
+</LinearLayout>

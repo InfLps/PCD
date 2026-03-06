@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name" translatable="false">PCD</string>
+	<string name="sort_by_z_a">Sort by: Z-A</string>
+	<string name="sort_by_a_z">Sort by: A-Z</string>
+	<string name="sort_by_newest">Sort by: Newest</string>
+	<string name="no_file_selected">No file selected</string>
+	<string name="proceed">Proceed</string>
+	<string name="this_feature_is_experimental_meaning_that_some_features_may_be_unstable_and_the_application_may_run_slowly_especially_if_the_canvas_size_is_very_large_and_depending_on_the_brush_configuration">This feature is experimental, meaning that some features may be unstable and the application may run slowly, especially if the canvas size is very large and depending on the brush configuration!</string>
+</resources>
