@@ -61,4 +61,3 @@ This project is continuously evolving, and contributions are incredibly welcome!
 
 # Acknowledgments:
  * Google GSON: For handling the .pcdproj file serialization.
-Would you like me to help you draft a specific CONTRIBUTING.md file or an Issue Template so that other developers know exactly how to report bugs or submit code to your repository?
