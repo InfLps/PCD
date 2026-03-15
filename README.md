@@ -4,21 +4,21 @@ Pocket Canvas Draw (PCD) is an advanced, feature-rich drawing and painting appli
 Originally created in Sketchware and celebrated as an "Editor's Choice" on the Sketchub platform in 2020, this repository houses the completely rebuilt and upgraded version developed natively in Android Studio.
 
 # Core Features
-#Professional Drawing Tools
+## Professional Drawing Tools
  * Dynamic Brush Adjustments: Easily adjust your brush size (1–500) and opacity (0–255) using intuitive sliders. The UI provides a real-time miniature preview of your brush footprint.
    
  * Quick Toggles: Seamlessly switch between brush and eraser modes with a single tap.
  * Advanced Color Picker: Choose your exact shade for brushes, text, or shapes using a comprehensive pop-up color picker.
  * Smart Canvas Navigation: Zoom, pan, and rotate the canvas naturally with multi-touch finger gestures for a professional workflow.
 
-# Layer Management
+## Layer Management
 Layers are the backbone of any serious digital art app. In PCD, you can easily add, lock, toggle visibility, and rearrange layers to suit your workflow.
  * Blend Modes: Take your art further with professional blending functions, including: NORMAL (SRC_OVER), MULTIPLY, SCREEN, OVERLAY, DARKEN, LIGHTEN, XoR, and CLEAR.
 
-# Smudge & Blending
+## Smudge & Blending
 Blend colors directly on the canvas using the Smudge tool. You have full control over both the size of the smudge brush and its intensity (0–100).
 
-# Text, Media, and Shapes
+## Text, Media, and Shapes
  * Custom Text: Add text to your canvas with support for imported custom fonts (.ttf or .otf).
  * Image Import: Bring reference images directly onto your canvas (requires media read permissions).
  * Geometric Shapes: Draw shapes dynamically by dragging diagonally. Choose between FILL or STROKE modes for distinct styles.
@@ -27,7 +27,7 @@ Productivity Boosters
  * Fill Mode: Quickly flood an area with color. Adjust the tolerance (1–100) by dragging from the top or bottom of the screen.
  * Color Eyedropper: Long-press anywhere on the canvas to instantly grab a color.
 
-# Custom Brush Engine
+## Custom Brush Engine
 PCD features a highly customizable brush engine, allowing you to import or create your own unique brushes. Open the brush panel, tap the + icon, and start experimenting!
  * Pattern Import: Select any 1:1 ratio image to act as your brush tip.
  * Masking: Toggle the negative filter to use black/white as a mask to remove the background of your pattern.
@@ -35,7 +35,7 @@ PCD features a highly customizable brush engine, allowing you to import or creat
  * Angle & Following Path: Set a fixed angle for a "marker" effect, or toggle "Following path" so the brush stamp rotates dynamically with your stroke.
  * Jitter Effects: Introduce randomness to your strokes! Adjust Scatter (for spray effects), Jitter Angle, and Jitter Size for organic, varied textures.
  
-# Project Saving & Exporting
+## Project Saving & Exporting
 Never lose your work. You can safely exit the app and PCD will serialize your progress.
  * Export: Save your projects as .pcdproj files to back them up or share them.
  * Powered by GSON: Project serialization and deserialization are handled quickly and efficiently by the Google GSON library.
@@ -56,6 +56,7 @@ We are constantly working to improve PCD. Here are a few known quirks and how to
 > 
 
 Found a new bug? Please open an Issue to report it!
+
 # Contributing
 This project is continuously evolving, and contributions are incredibly welcome! Whether you are fixing bugs, adding new brush parameters, or optimizing the canvas rendering, feel free to fork this repository and submit a pull request.
 
