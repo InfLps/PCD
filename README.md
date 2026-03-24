@@ -66,11 +66,14 @@ PCD features a highly customizable brush engine, allowing you to import or creat
  * Masking: Toggle the negative filter to use black/white as a mask to remove the background of your pattern.
  * Spacing: Control the distance between brush stamps. (Note: Setting this below 0.03 may cause performance drops).
 <p align="center">
-<img src="demo-img/pcddemo21.gif" alt="spacingDemo" width="180" title="Spacing">
+<img src="demo-img/pcddemo17.gif" alt="spacingDemo" width="180" title="Spacing">
 </p>
 
  * Angle & Following Path: Set a fixed angle for a "marker" effect, or toggle "Following path" so the brush stamp rotates dynamically with your stroke.
+
 <p align="center">
+<img src="demo-img/pcddemo16.gif" alt="AngleDemo" width="180" title="Angle">
+&nbsp;&nbsp;
 <img src="demo-img/pcddemo15.gif" alt="flwpathrDemo" width="180" title="Follow the path">
 </p>
 
