@@ -64,7 +64,11 @@ Blend colors directly on the canvas using the Smudge tool. You have full control
 PCD features a highly customizable brush engine, allowing you to import or create your own unique brushes. Open the brush panel, tap the + icon, and start experimenting!
  * Pattern Import: Select any 1:1 ratio image to act as your brush tip.
  * Masking: Toggle the negative filter to use black/white as a mask to remove the background of your pattern.
- * Spacing: Control the distance between brush stamps. (Note: Setting this below 0.03 may cause performance drops).
+ * Spacing: Control the distance between brush stamps. 
+
+> [!NOTE]
+> Setting this below 0.03 may cause performance drops.
+
 <p align="center">
 <img src="demo-img/pcddemo17.gif" alt="spacingDemo" width="180" title="Spacing">
 </p>
