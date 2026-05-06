@@ -50,6 +50,7 @@ Blend colors directly on the canvas using the Smudge tool. You have full control
 </p>
  Tip: Commit your media or shape adjustments by tapping the top checkmark icon, or simply double-tap the screen quickly!
 
+##Productivity Boosters 
 * Fill Mode: Quickly flood an area with color. Adjust the tolerance (1–100) by dragging from the top or bottom of the screen.
 <p align="center">
 <img src="demo-img/pcddemo19.gif" alt="fillDemo" width="180">
