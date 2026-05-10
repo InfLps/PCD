@@ -119,4 +119,4 @@ Found a new bug? Please open an Issue to report it!
 This project is continuously evolving, and contributions are incredibly welcome! Whether you are fixing bugs, adding new brush parameters, or optimizing the canvas rendering, feel free to fork this repository and submit a pull request.
 
 # Acknowledgments:
- * Google GSON: For handling the .pcdproj file serialization.
+ * [Google GSON](https://github.com/google/gson): For handling the .pcdproj file serialization.
